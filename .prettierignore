@@ -1,0 +1,11 @@
+# Ignore artifacts and dependencies
+node_modules/
+android/
+ios/
+build/
+expo-shared/
+*.log
+
+# Ignore metadata files
+*.lock
+*.svg
